@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [12 August I have the link!!](12 August I have the link!!)
 
-- ⚡ Fun fact **I read to many books**
+- ⚡ Fun fact **I read too many books**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

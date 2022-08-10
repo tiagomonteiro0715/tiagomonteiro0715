@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **tca.monteiro@campus.fct.unl.pt**
 
-- 📄 Know about my experiences [12 August I have the link!!](12 August I have the link!!)
-
 - ⚡ Fun fact **I read too many books**
 
 <h3 align="left">Connect with me:</h3>

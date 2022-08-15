@@ -11,8 +11,6 @@
 
 - 📝 I regularly write articles on [https://www.freecodecamp.org/news/author/tiago/](https://www.freecodecamp.org/news/author/tiago/)
 
-- 💬 Ask me about **Pytorch**
-
 - 📫 How to reach me **tca.monteiro@campus.fct.unl.pt**
 
 - ⚡ Fun fact **I read too many books**

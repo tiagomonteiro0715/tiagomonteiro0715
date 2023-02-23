@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tiago Monteiro</h1>
 <h3 align="center">Study at NOVA school of science and technology. Write for freecodecamp. Part of the direction of the IEEE student branch in my university</h3>
 
-- 🔭 I’m currently working on [Easy_PyTorch_Models](https://github.com/IEEE-NOVA-SB/Easy_PyTorch_Models)
+- 🔭 I’m currently working on [SimpleDeepNet](https://github.com/tiagomonteiro0715/SimpleDeepNet)
 
-- 🌱 I’m currently learning **Pytorch**
+- 🌱 I’m currently learning **PyTorch**
 
-- 🤝 I’m looking for help with working with **n8n**
+- 🤝 I’m looking for help with working with **PytTorch-lightning**
 
 - 👨‍💻 All of my projects are available at [https://tiagomonteiro0715.github.io/](https://tiagomonteiro0715.github.io/)
 
-- 📝 I regularly write articles on [https://www.freecodecamp.org/news/author/tiago/](https://www.freecodecamp.org/news/author/tiago/)
+- 📝 I write articles on [https://www.freecodecamp.org/news/author/tiago/](https://www.freecodecamp.org/news/author/tiago/)
 
 - 📫 How to reach me **tca.monteiro@campus.fct.unl.pt**
 

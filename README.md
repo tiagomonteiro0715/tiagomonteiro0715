@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tiago Monteiro</h1>
 <h3 align="center">Study at NOVA school of science and technology. Write for freecodecamp. Part of the direction of the IEEE student branch in my university</h3>
 
-- 🔭 I’m currently working on [SimpleDeepNet](https://github.com/tiagomonteiro0715/SimpleDeepNet)
-
 - 🌱 I’m currently learning **PyTorch**
 
 - 🤝 I’m looking for help with working with **PytTorch-lightning**
@@ -13,7 +11,6 @@
 
 - 📫 How to reach me **tca.monteiro@campus.fct.unl.pt**
 
-- ⚡ Fun fact **I read too many books**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

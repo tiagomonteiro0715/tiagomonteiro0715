@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tiago Monteiro</h1>
-<h3 align="center">Study at NOVA school of science and technology. Write for freecodecamp. Part of the direction of the IEEE student branch in my university</h3>
+<h3 align="center">AI Reseacher | Undergraduate of Eletrical and Computer Engineering at NOVA school of science and technology | FreeCodeCamp Writer | Part of the direction of the IEEE student branch in my university</h3>
 
 - 🌱 I’m currently learning **Advanced PyTorch**
 

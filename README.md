@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tiago Monteiro</h1>
 <h3 align="center">Study at NOVA school of science and technology. Write for freecodecamp. Part of the direction of the IEEE student branch in my university</h3>
 
-- 🌱 I’m currently learning **PyTorch**
-
-- 🤝 I’m looking for help with working with **PytTorch-lightning**
-
-- 👨‍💻 All of my projects are available at [https://tiagomonteiro0715.github.io/](https://tiagomonteiro0715.github.io/)
+- 🌱 I’m currently learning **Advanced PyTorch**
 
 - 📝 I write articles on [https://www.freecodecamp.org/news/author/tiago/](https://www.freecodecamp.org/news/author/tiago/)
 

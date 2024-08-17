@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Advanced PyTorch**
 
-- 📝 I write articles on [https://www.freecodecamp.org/news/author/tiago/](https://www.freecodecamp.org/news/author/tiago/)
+- 📝 I write articles on [https://www.freecodecamp.org/news/author/tiagomonteiro/](https://www.freecodecamp.org/news/author/tiagomonteiro)
 
 - 📫 How to reach me **tca.monteiro@campus.fct.unl.pt**
 

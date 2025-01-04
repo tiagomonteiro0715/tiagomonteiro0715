@@ -12,33 +12,34 @@
 ---
 
 <h3 align="center">About Me</h3>
-I am Tiago Monteiro, currently finishing my undergraduate degree in Electrical and Computer Engineering at NOVA School of Science and Technology.
+<p>I am Tiago Monteiro, currently finishing my undergraduate degree in Electrical and Computer Engineering at NOVA School of Science and Technology.</p>
 
-My interests lie in control theory, deep learning, and artificial intelligence, with a focus on solving complex problems through advanced applied mathematics.
+<p>My interests lie in control theory, deep learning, and artificial intelligence, with a focus on solving complex problems through advanced applied mathematics.</p>
 
-I am developing EuroStatify AI, an AI startup utilizing Google's open-source large language models (LLMs) to streamline legal research and provide for to those interested in legal, economic, and social statistics.
+<p>I am developing EuroStatify AI, an AI startup utilizing Google's open-source large language models (LLMs) to streamline legal research and provide for to those interested in legal, economic, and social statistics.</p>
 
-To gain insights into financial strategy and decision-making for startups, I completed IESE Business School's Think Like a CFO program and Yale University's Financial Markets course.
+<p>To gain insights into financial strategy and decision-making for startups, I completed IESE Business School's Think Like a CFO program and Yale University's Financial Markets course.</p>
 
-I develop trading strategies employing advanced statistical methods and deep learning architectures, consistently outperforming the S&P 500. Utilizing QuantConnect, a quantitative trading platform with over $2 billion in monthly trading volume, I design, build, and test strategies in Python.
+<p>I develop trading strategies employing advanced statistical methods and deep learning architectures, consistently outperforming the S&P 500. Utilizing QuantConnect, a quantitative trading platform with over $2 billion in monthly trading volume, I design, build, and test strategies in Python.</p>
 
-As an IEEE (Institute of Electrical and Electronics Engineers) PT Officer, I create promotional videos for IEEE's initiatives and activities. IEEE is the largest global nonprofit professional organization focused on advancing technology for humanity's benefit.
+<p>As an IEEE (Institute of Electrical and Electronics Engineers) PT Officer, I create promotional videos for IEEE's initiatives and activities. IEEE is the largest global nonprofit professional organization focused on advancing technology for humanity's benefit.</p>
 
-As a previous Vice Chair of the IEEE NOVA Student Branch, I represented IEEE at the student level and organized numerous successful events, including one that gathered over 50 students to discuss master’s thesis management.
+<p>As a previous Vice Chair of the IEEE NOVA Student Branch, I represented IEEE at the student level and organized numerous successful events, including one that gathered over 50 students to discuss master’s thesis management.</p>
 
-I possess three AI specializations from Coursera: Andrew Ng's Deep Learning and MLOps, and the University of Alberta's Reinforcement Learning. Additionally, I completed an Agile Project Management workshop at NTT DATA in Lisbon.
+<p>I possess three AI specializations from Coursera: Andrew Ng's Deep Learning and MLOps, and the University of Alberta's Reinforcement Learning. Additionally, I completed an Agile Project Management workshop at NTT DATA in Lisbon.</p>
 
-Outside of my academic pursuits, I engage in community service. My volunteer work includes assisting at election polling sites and supporting the efforts of the neighborhood food bank. 
+<p>Outside of my academic pursuits, I engage in community service. My volunteer work includes assisting at election polling sites and supporting the efforts of the neighborhood food bank.</p>
 
-I have demonstrated my language proficiency through an IELTS score of 7.5 and by obtaining a C1 Advanced Cambridge English certificate. 
+<p>I have demonstrated my language proficiency through an IELTS score of 7.5 and by obtaining a C1 Advanced Cambridge English certificate.</p>
 
-Furthermore, I contribute as a writer for FreeCodeCamp, where my published articles have garnered more than 175,000 views. 
+<p>Furthermore, I contribute as a writer for FreeCodeCamp, where my published articles have garnered more than 175,000 views.</p>
 
-I am eager to explore joint ventures and prospects in the fields of artificial intelligence, trading, and control systems research.
+<p>I am eager to explore joint ventures and prospects in the fields of artificial intelligence, trading, and control systems research.</p>
 
-Contact Information
+<p>Contact Information</p>
 
-Email: tca.monteiro@campus.fct.unl.pt
+<p>Email: tca.monteiro@campus.fct.unl.pt</p>
+
 
 ---
 

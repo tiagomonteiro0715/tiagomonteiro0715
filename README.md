@@ -16,7 +16,7 @@
 
 <p>My interests lie in control theory, deep learning, and artificial intelligence, with a focus on solving complex problems through advanced applied mathematics.</p>
 
-<p>I am developing EuroStatify AI, an AI startup utilizing Google's open-source large language models (LLMs) to streamline legal research and provide for to those interested in legal, economic, and social statistics.</p>
+<p>I am a Silicon Valley Fellowship fellow in the Winter 2025 batch, an experience that allows me to engage with leading entrepreneurs, investors, and industry experts in Silicon Valley and San Fransisco.</p>
 
 <p>To gain insights into financial strategy and decision-making for startups, I completed IESE Business School's Think Like a CFO program and Yale University's Financial Markets course.</p>
 

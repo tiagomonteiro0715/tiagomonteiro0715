@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tiago Monteiro</h1>
 <h3 align="center">
-  AI Researcher | Founder EuroStatify AI | Co-Founder NOVA Finance Club | IEEE PT Officer | Undergraduate of Electrical and Computer Engineering at NOVA School of Science and Technology | FreeCodeCamp Writer
+  AI Researcher | Founder EuroStatify AI | IEEE PT Officer | Undergraduate of Electrical and Computer Engineering at NOVA School of Science and Technology | FreeCodeCamp Writer
 </h3>
 
 - 🌱 I’m currently learning **Advanced PyTorch**

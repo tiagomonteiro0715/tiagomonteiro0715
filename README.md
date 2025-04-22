@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tiago Monteiro</h1>
+<h1 align="center">Hi 👋, I am Tiago Monteiro</h1>
 <h3 align="center">
   AI Researcher | Founder EuroStatify AI | IEEE PT Officer | Undergraduate of Electrical and Computer Engineering at NOVA School of Science and Technology | FreeCodeCamp Writer
 </h3>
@@ -32,7 +32,7 @@
 
 <p>I have demonstrated my language proficiency through an IELTS score of 7.5 and by obtaining a C1 Advanced Cambridge English certificate.</p>
 
-<p>Furthermore, I contribute as a writer for FreeCodeCamp, where my published articles have garnered more than 175,000 views.</p>
+<p>Furthermore, I contribute as a writer for FreeCodeCamp, where my published articles have garnered more than 200,000 views.</p>
 
 <p>I am eager to explore joint ventures and prospects in the fields of artificial intelligence, trading, and control systems research.</p>
 

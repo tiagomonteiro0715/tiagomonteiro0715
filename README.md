@@ -1,45 +1,52 @@
 <h1 align="center">Hi 👋, I am Tiago Monteiro</h1>
 <h3 align="center">
-  AI Researcher | Founder EuroStatify AI | IEEE PT Officer | Undergraduate of Electrical and Computer Engineering at NOVA School of Science and Technology | FreeCodeCamp Writer
+ Silicon Valley Fellow W25 | Master’s in AI @ Northeastern (Silicon Valley) | Electrical and Computer Engineer | Cofounder (Stealth Mode) 
 </h3>
-
-- 🌱 I’m currently learning **Advanced PyTorch**
 
 - 📝 I write articles on [FreeCodeCamp](https://www.freecodecamp.org/news/author/tiagomonteiro/)
 
-- 📫 How to reach me **tca.monteiro@campus.fct.unl.pt**
+- 📫 How to reach me **monteiro.t@northeastern.edu**
 
 ---
 
 <h3 align="center">About Me</h3>
-<p>I am Tiago Monteiro, currently finishing my undergraduate degree in Electrical and Computer Engineering at NOVA School of Science and Technology.</p>
+I am Tiago Monteiro, currently a master of AI at Northeastern University in the Silicon Valley campus.
 
-<p>My interests lie in control theory, deep learning, and artificial intelligence, with a focus on solving complex problems through advanced applied mathematics.</p>
+I finished my undergraduate degree in Electrical & Computer Engineering at NOVA University, one of the best universities in Portugal.
 
-<p>I am a Silicon Valley Fellowship fellow in the Winter 2025 batch, an experience that allows me to engage with leading entrepreneurs, investors, and industry experts in Silicon Valley and San Fransisco.</p>
+NOVA University is known worldwide for some of the best data science (NOVA IMS) and business (NOVA SBE) master's degree programs in Europe and the world.
 
-<p>To gain insights into financial strategy and decision-making for startups, I completed IESE Business School's Think Like a CFO program and Yale University's Financial Markets course.</p>
+My interests lie in control theory, deep learning, and artificial intelligence, with a focus on solving complex problems by applying advanced mathematics.
 
-<p>I develop trading strategies employing advanced statistical methods and deep learning architectures, consistently outperforming the S&P 500. Utilizing QuantConnect, a quantitative trading platform with over $2 billion in monthly trading volume, I design, build, and test strategies in Python.</p>
+I am a Silicon Valley Fellowship fellow in the Winter 2025 batch, a program that allowed me to learn with leading entrepreneurs, investors, and industry experts in Silicon Valley.
 
-<p>As an IEEE (Institute of Electrical and Electronics Engineers) PT Officer, I create promotional videos for IEEE's initiatives and activities. IEEE is the largest global nonprofit professional organization focused on advancing technology for humanity's benefit.</p>
+To gain insights into financial strategy and decision-making for startups, I completed IESE Business School's Think Like a CFO program and Yale University's Financial Markets course.
 
-<p>As a previous Vice Chair of the IEEE NOVA Student Branch, I represented IEEE at the student level and organized numerous successful events, including one that gathered over 50 students to discuss master’s thesis management.</p>
+In addition, I completed the specialization Quantum Mechanics for Engineers Specialization from the University of Colorado Boulder. 
 
-<p>I possess three AI specializations from Coursera: Andrew Ng's Deep Learning and MLOps, and the University of Alberta's Reinforcement Learning. Additionally, I completed an Agile Project Management workshop at NTT DATA in Lisbon.</p>
+This way, giving me a foundation to understand where all forces of the university come from, current physics challenges like quantum gravity, and solutions like string theory.
 
-<p>Outside of my academic pursuits, I engage in community service. My volunteer work includes assisting at election polling sites and supporting the efforts of the neighborhood food bank.</p>
+Also, to give a firm foundation to quantum AI and quantum computing.
 
-<p>I have demonstrated my language proficiency through an IELTS score of 7.5 and by obtaining a C1 Advanced Cambridge English certificate.</p>
+As a previous IEEE (Institute of Electrical and Electronics Engineers) PT Officer, I created 20 promotional videos for IEEE's initiatives and activities. IEEE is the largest global nonprofit professional organization focused on advancing technology for humanity's benefit.
 
-<p>Furthermore, I contribute as a writer for FreeCodeCamp, where my published articles have garnered more than 200,000 views.</p>
+As a former vice chair of the IEEE NOVA Student Branch, I represented IEEE at the student level and organized several successful events, including one that gathered over 50 students to discuss master’s thesis management.
 
-<p>I am eager to explore joint ventures and prospects in the fields of artificial intelligence, trading, and control systems research.</p>
+I completed three AI specializations from Coursera: Andrew Ng's Deep Learning and MLOps, and the University of Alberta's Reinforcement Learning. 
 
-<p>Contact Information</p>
+Furthermore, I completed an Agile Project Management workshop at NTT DATA in Lisbon.
 
-<p>Email: tca.monteiro@campus.fct.unl.pt</p>
+I have demonstrated my language proficiency through an IELTS score of 7.5 and by obtaining a C1 Advanced Cambridge English certificate. 
 
+In addition, I contribute as a writer for FreeCodeCamp, where my published articles have garnered more than 200,000 views. 
+
+I am eager to explore joint ventures and prospects in the fields of artificial intelligence, and control systems research.
+
+Contact Information
+
+Email: monteiro.t@northeastern.edu
+
+Freecodecamp Articles Link [Here](https://www.freecodecamp.org/news/author/tiagomonteiro/)
 
 ---
 
@@ -67,9 +74,3 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
   </a>
 </p>
-
----
-
-<h3 align="left">Contact Information:</h3>
-- 📫 Email: **tca.monteiro@campus.fct.unl.pt**
-- 🌐 Articles: [FreeCodeCamp](https://www.freecodecamp.org/news/author/tiagomonteiro/)

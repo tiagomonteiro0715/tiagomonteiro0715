@@ -38,7 +38,7 @@ Furthermore, I completed an Agile Project Management workshop at NTT DATA in Lis
 
 I have demonstrated my language proficiency through an IELTS score of 7.5 and by obtaining a C1 Advanced Cambridge English certificate. 
 
-In addition, I contribute as a writer for FreeCodeCamp, where my published articles have garnered more than 200,000 views. 
+In addition, I contribute as a writer for FreeCodeCamp, where my published articles have garnered more than 230,000 views. 
 
 I am eager to explore joint ventures and prospects in the fields of artificial intelligence, and control systems research.
 

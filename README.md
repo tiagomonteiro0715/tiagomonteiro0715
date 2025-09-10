@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I am Tiago Monteiro</h1>
 <h3 align="center">
- Silicon Valley Fellow W25 | Master’s in AI @ Northeastern (Silicon Valley) | Electrical and Computer Engineer | Cofounder (Stealth Mode) 
-</h3>
+ Silicon Valley Fellow W25 | Master’s in AI @ Northeastern (Silicon Valley) | Electrical and Computer Engineer
 
 - 📝 I write articles on [FreeCodeCamp](https://www.freecodecamp.org/news/author/tiagomonteiro/)
 

@@ -9,7 +9,10 @@
 ---
 
 <h3 align="center">About Me</h3>
-I am Tiago Monteiro, currently a master of AI at Northeastern University in the Silicon Valley campus.
+
+I am Tiago Monteiro, currently a master of AI at Northeastern University in the Silicon Valley campus at San Jose, California, USA.
+
+
 
 I finished my undergraduate degree in Electrical & Computer Engineering at NOVA University, one of the best universities in Portugal.
 
